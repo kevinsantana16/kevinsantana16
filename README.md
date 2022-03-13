@@ -1,4 +1,4 @@
-- 👋 oi, meu nome é kevin, estou atualmente estundo python
+- 👋 oi, meu nome é kevin, estou atualmente estudando python
 
 
 <!---
