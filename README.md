@@ -1,8 +1,7 @@
-<div align="left"> 
-<a href="https://github.com/"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsantana16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantana16&layout=compact&langs_count=7&theme=dracula"/> 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Sanatana
+======================================================================================================================================
 
-</div> 
+Estudante de análise e desenvolvimento de sistemas com conhecimentos em PHP, Python, Laravel, Vue.js, HTML, CSS, GIT
 
 <div style="display: inline_block"><br> 
 
@@ -21,5 +20,11 @@
 <a href="https://www.linkedin.com/in/kevin-santana-7a49b3231" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
+
+<div align="left"> 
+<a href="https://github.com/"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsantana16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantana16&layout=compact&langs_count=7&theme=dracula"/> 
+
+</div> 
 
 </div>
